@@ -1,0 +1,271 @@
+Age,MonthlyIncome,Occupation,FamilySize,RiskProfile,InvestAmt_Percent,Insurance_Percent,Equity_Percent,MF_Percent,Debt_Percent,GoldSilver_Percent,RealEstate_Percent,Crypto_Percent
+< 35,0-50000,Govt Salaried,1 to 2,High,20,2,10,58,20,0,10,0
+< 35,0-50000,Govt Salaried,1 to 2,Moderate,20,2,10,45,30,0,13,0
+< 35,0-50000,Govt Salaried,1 to 2,Conservative,20,2,2,8,67.9,0.1,20,0
+< 35,0-50000,Govt Salaried,3 to 4,High,15,2,10,58,20,0,10,0
+< 35,0-50000,Govt Salaried,3 to 4,Moderate,15,2,10,45,30,0,13,0
+< 35,0-50000,Govt Salaried,3 to 4,Conservative,15,2,2,8,67.9,0.1,20,0
+< 35,0-50000,Govt Salaried,5 to 6,High,10,2,10,58,20,0,10,0
+< 35,0-50000,Govt Salaried,5 to 6,Moderate,10,2,10,45,30,0,13,0
+< 35,0-50000,Govt Salaried,5 to 6,Conservative,10,2,2,8,67.9,0.1,20,0
+< 35,0-50000,Corporate Salaried,1 to 2,High,20,2,10,58,20,0,10,0
+< 35,0-50000,Corporate Salaried,1 to 2,Moderate,20,2,10,45,30,0,13,0
+< 35,0-50000,Corporate Salaried,1 to 2,Conservative,20,2,2,8,67.9,0.1,20,0
+< 35,0-50000,Corporate Salaried,3 to 4,High,15,2,10,58,20,0,10,0
+< 35,0-50000,Corporate Salaried,3 to 4,Moderate,15,2,10,45,30,0,13,0
+< 35,0-50000,Corporate Salaried,3 to 4,Conservative,15,2,2,8,67.9,0.1,20,0
+< 35,0-50000,Corporate Salaried,5 to 6,High,10,2,10,58,20,0,10,0
+< 35,0-50000,Corporate Salaried,5 to 6,Moderate,10,2,10,45,30,0,13,0
+< 35,0-50000,Corporate Salaried,5 to 6,Conservative,10,2,2,8,67.9,0.1,20,0
+< 35,0-50000,MSME Salaried,1 to 2,High,20,2,10,58,20,0,10,0
+< 35,0-50000,MSME Salaried,1 to 2,Moderate,20,2,10,45,30,0,13,0
+< 35,0-50000,MSME Salaried,1 to 2,Conservative,20,2,2,8,67.9,0.1,20,0
+< 35,0-50000,MSME Salaried,3 to 4,High,15,2,10,58,20,0,10,0
+< 35,0-50000,MSME Salaried,3 to 4,Moderate,15,2,10,45,30,0,13,0
+< 35,0-50000,MSME Salaried,3 to 4,Conservative,15,2,2,8,67.9,0.1,20,0
+< 35,0-50000,MSME Salaried,5 to 6,High,10,2,10,58,20,0,10,0
+< 35,0-50000,MSME Salaried,5 to 6,Moderate,10,2,10,45,30,0,13,0
+< 35,0-50000,MSME Salaried,5 to 6,Conservative,10,2,2,8,67.9,0.1,20,0
+< 35,0-50000,Contract worker,1 to 2,High,20,2,0,15,73,0,10,0
+< 35,0-50000,Contract worker,1 to 2,Moderate,20,2,0,10,76,0,12,0
+< 35,0-50000,Contract worker,1 to 2,Conservative,20,2,0,3,80,0,15,0
+< 35,0-50000,Contract worker,3 to 4,High,15,2,0,15,73,0,10,0
+< 35,0-50000,Contract worker,3 to 4,Moderate,15,2,0,10,76,0,12,0
+< 35,0-50000,Contract worker,3 to 4,Conservative,15,2,0,3,80,0,15,0
+< 35,0-50000,Contract worker,5 to 6,High,10,2,0,15,73,0,10,0
+< 35,0-50000,Contract worker,5 to 6,Moderate,10,2,0,10,76,0,12,0
+< 35,0-50000,Contract worker,5 to 6,Conservative,10,2,0,3,80,0,15,0
+< 35,50001-100000,Govt Salaried,1 to 2,High,50,2,10,38,40,0,10,0
+< 35,50001-100000,Govt Salaried,1 to 2,Moderate,50,2,10,25,50,0,13,0
+< 35,50001-100000,Govt Salaried,1 to 2,Conservative,50,2,2,8,67.9,0.1,20,0
+< 35,50001-100000,Govt Salaried,3 to 4,High,40,2,10,38,40,0,10,0
+< 35,50001-100000,Govt Salaried,3 to 4,Moderate,40,2,10,25,50,0,13,0
+< 35,50001-100000,Govt Salaried,3 to 4,Conservative,40,2,2,8,67.9,0.1,20,0
+< 35,50001-100000,Govt Salaried,5 to 6,High,30,2,10,38,40,0,10,0
+< 35,50001-100000,Govt Salaried,5 to 6,Moderate,30,2,10,25,50,0,13,0
+< 35,50001-100000,Govt Salaried,5 to 6,Conservative,30,2,2,8,67.9,0.1,20,0
+< 35,50001-100000,Corporate Salaried,1 to 2,High,50,2,10,38,40,0,10,0
+< 35,50001-100000,Corporate Salaried,1 to 2,Moderate,50,2,10,25,50,0,13,0
+< 35,50001-100000,Corporate Salaried,1 to 2,Conservative,50,2,2,8,67.9,0.1,20,0
+< 35,50001-100000,Corporate Salaried,3 to 4,High,40,2,10,38,40,0,10,0
+< 35,50001-100000,Corporate Salaried,3 to 4,Moderate,40,2,10,25,50,0,13,0
+< 35,50001-100000,Corporate Salaried,3 to 4,Conservative,40,2,2,8,67.9,0.1,20,0
+< 35,50001-100000,Corporate Salaried,5 to 6,High,30,2,10,38,40,0,10,0
+< 35,50001-100000,Corporate Salaried,5 to 6,Moderate,30,2,10,25,50,0,13,0
+< 35,50001-100000,Corporate Salaried,5 to 6,Conservative,30,2,2,8,67.9,0.1,20,0
+< 35,50001-100000,MSME Salaried,1 to 2,High,50,2,10,38,40,0,10,0
+< 35,50001-100000,MSME Salaried,1 to 2,Moderate,50,2,10,25,50,0,13,0
+< 35,50001-100000,MSME Salaried,1 to 2,Conservative,50,2,2,8,67.9,0.1,20,0
+< 35,50001-100000,MSME Salaried,3 to 4,High,40,2,10,38,40,0,10,0
+< 35,50001-100000,MSME Salaried,3 to 4,Moderate,40,2,10,25,50,0,13,0
+< 35,50001-100000,MSME Salaried,3 to 4,Conservative,40,2,2,8,67.9,0.1,20,0
+< 35,50001-100000,MSME Salaried,5 to 6,High,30,2,10,38,40,0,10,0
+< 35,50001-100000,MSME Salaried,5 to 6,Moderate,30,2,10,25,50,0,13,0
+< 35,50001-100000,MSME Salaried,5 to 6,Conservative,30,2,2,8,67.9,0.1,20,0
+< 35,50001-100000,Small Business,1 to 2,High,30,2,10,38,40,0,10,0
+< 35,50001-100000,Small Business,1 to 2,Moderate,30,2,10,25,50,0,13,0
+< 35,50001-100000,Small Business,1 to 2,Conservative,30,2,2,8,67.9,0.1,20,0
+< 35,50001-100000,Small Business,3 to 4,High,20,2,10,38,40,0,10,0
+< 35,50001-100000,Small Business,3 to 4,Moderate,20,2,10,25,50,0,13,0
+< 35,50001-100000,Small Business,3 to 4,Conservative,20,2,2,8,67.9,0.1,20,0
+< 35,50001-100000,Small Business,5 to 6,High,10,2,10,38,40,0,10,0
+< 35,50001-100000,Small Business,5 to 6,Moderate,10,2,10,25,50,0,13,0
+< 35,50001-100000,Small Business,5 to 6,Conservative,10,2,2,8,67.9,0.1,20,0
+< 35,> 100000,Govt Salaried,1 to 2,High,50,2,10,56,20,0,10,2
+< 35,> 100000,Govt Salaried,1 to 2,Moderate,50,2,10,35,40,0,13,0
+< 35,> 100000,Govt Salaried,1 to 2,Conservative,50,2,9,18,50,1,20,0
+< 35,> 100000,Govt Salaried,3 to 4,High,40,2,10,56,20,0,10,2
+< 35,> 100000,Govt Salaried,3 to 4,Moderate,40,2,10,35,40,0,13,0
+< 35,> 100000,Govt Salaried,3 to 4,Conservative,40,2,9,18,50,1,20,0
+< 35,> 100000,Govt Salaried,5 to 6,High,30,2,10,56,20,0,10,2
+< 35,> 100000,Govt Salaried,5 to 6,Moderate,30,2,10,35,40,0,13,0
+< 35,> 100000,Govt Salaried,5 to 6,Conservative,30,2,9,18,50,1,20,0
+< 35,> 100000,Corporate Salaried,1 to 2,High,50,2,10,56,20,0,10,2
+< 35,> 100000,Corporate Salaried,1 to 2,Moderate,50,2,10,35,40,0,13,0
+< 35,> 100000,Corporate Salaried,1 to 2,Conservative,50,2,9,18,50,1,20,0
+< 35,> 100000,Corporate Salaried,3 to 4,High,40,2,10,56,20,0,10,2
+< 35,> 100000,Corporate Salaried,3 to 4,Moderate,40,2,10,35,40,0,13,0
+< 35,> 100000,Corporate Salaried,3 to 4,Conservative,40,2,9,18,50,1,20,0
+< 35,> 100000,Corporate Salaried,5 to 6,High,30,2,10,56,20,0,10,2
+< 35,> 100000,Corporate Salaried,5 to 6,Moderate,30,2,10,35,40,0,13,0
+< 35,> 100000,Corporate Salaried,5 to 6,Conservative,30,2,9,18,50,1,20,0
+< 35,> 100000,MSME Salaried,1 to 2,High,50,2,10,38,68,0,10,0
+< 35,> 100000,MSME Salaried,1 to 2,Moderate,50,2,10,25,78,0,13,0
+< 35,> 100000,MSME Salaried,1 to 2,Conservative,50,2,2,8,67.9,0.1,20,0
+< 35,> 100000,MSME Salaried,3 to 4,High,40,2,10,38,40,0,10,0
+< 35,> 100000,MSME Salaried,3 to 4,Moderate,40,2,10,25,50,0,13,0
+< 35,> 100000,MSME Salaried,3 to 4,Conservative,40,2,2,8,67.9,0.1,20,0
+< 35,> 100000,MSME Salaried,5 to 6,High,30,2,10,38,40,0,10,0
+< 35,> 100000,MSME Salaried,5 to 6,Moderate,30,2,10,25,50,0,13,0
+< 35,> 100000,MSME Salaried,5 to 6,Conservative,30,2,2,8,67.9,0.1,20,0
+< 35,> 100000,Business,1 to 2,High,30,2,10,38,39,0,10,1
+< 35,> 100000,Business,1 to 2,Moderate,30,2,10,25,78,0,13,0
+< 35,> 100000,Business,1 to 2,Conservative,30,2,2,8,67.9,0.1,20,0
+< 35,> 100000,Business,3 to 4,High,20,2,10,38,39,0,10,1
+< 35,> 100000,Business,3 to 4,Moderate,20,2,10,25,50,0,13,0
+< 35,> 100000,Business,3 to 4,Conservative,20,2,2,8,67.9,0.1,20,0
+< 35,> 100000,Business,5 to 6,High,10,2,10,38,39,0,10,1
+< 35,> 100000,Business,5 to 6,Moderate,10,2,10,25,50,0,13,0
+< 35,> 100000,Business,5 to 6,Conservative,10,2,2,8,67.9,0.1,20,0
+36 - 60,0-50000,Govt Salaried,1 to 2,High,20,2,10,38,40,0,10,0
+36 - 60,0-50000,Govt Salaried,1 to 2,Moderate,20,2,10,25,50,0,13,0
+36 - 60,0-50000,Govt Salaried,1 to 2,Conservative,20,2,2,8,67.9,0.1,20,0
+36 - 60,0-50000,Govt Salaried,3 to 4,High,15,2,10,38,40,0,10,0
+36 - 60,0-50000,Govt Salaried,3 to 4,Moderate,15,2,10,25,50,0,13,0
+36 - 60,0-50000,Govt Salaried,3 to 4,Conservative,15,2,2,8,67.9,0.1,20,0
+36 - 60,0-50000,Govt Salaried,5 to 6,High,10,2,10,38,40,0,10,0
+36 - 60,0-50000,Govt Salaried,5 to 6,Moderate,10,2,10,25,50,0,13,0
+36 - 60,0-50000,Govt Salaried,5 to 6,Conservative,10,2,2,8,67.9,0.1,20,0
+36 - 60,0-50000,Corporate Salaried,1 to 2,High,20,2,10,38,40,0,10,0
+36 - 60,0-50000,Corporate Salaried,1 to 2,Moderate,20,2,10,25,50,0,13,0
+36 - 60,0-50000,Corporate Salaried,1 to 2,Conservative,20,2,2,8,67.9,0.1,20,0
+36 - 60,0-50000,Corporate Salaried,3 to 4,High,15,2,10,38,40,0,10,0
+36 - 60,0-50000,Corporate Salaried,3 to 4,Moderate,15,2,10,25,50,0,13,0
+36 - 60,0-50000,Corporate Salaried,3 to 4,Conservative,15,2,2,8,67.9,0.1,20,0
+36 - 60,0-50000,Corporate Salaried,5 to 6,High,10,2,10,38,40,0,10,0
+36 - 60,0-50000,Corporate Salaried,5 to 6,Moderate,10,2,10,25,50,0,13,0
+36 - 60,0-50000,Corporate Salaried,5 to 6,Conservative,10,2,2,8,67.9,0.1,20,0
+36 - 60,0-50000,MSME Salaried,1 to 2,High,20,2,10,38,40,0,10,0
+36 - 60,0-50000,MSME Salaried,1 to 2,Moderate,20,2,10,25,50,0,13,0
+36 - 60,0-50000,MSME Salaried,1 to 2,Conservative,20,2,2,8,67.9,0.1,20,0
+36 - 60,0-50000,MSME Salaried,3 to 4,High,15,2,10,38,40,0,10,0
+36 - 60,0-50000,MSME Salaried,3 to 4,Moderate,15,2,10,25,50,0,13,0
+36 - 60,0-50000,MSME Salaried,3 to 4,Conservative,15,2,2,8,67.9,0.1,20,0
+36 - 60,0-50000,MSME Salaried,5 to 6,High,10,2,10,38,40,0,10,0
+36 - 60,0-50000,MSME Salaried,5 to 6,Moderate,10,2,10,25,50,0,13,0
+36 - 60,0-50000,MSME Salaried,5 to 6,Conservative,10,2,2,8,67.9,0.1,20,0
+36 - 60,0-50000,Contract worker,1 to 2,High,20,2,0,15,73,0,10,0
+36 - 60,0-50000,Contract worker,1 to 2,Moderate,20,2,0,10,76,0,12,0
+36 - 60,0-50000,Contract worker,1 to 2,Conservative,20,2,0,3,80,0,15,0
+36 - 60,0-50000,Contract worker,3 to 4,High,15,2,0,15,73,0,10,0
+36 - 60,0-50000,Contract worker,3 to 4,Moderate,15,2,0,10,76,0,12,0
+36 - 60,0-50000,Contract worker,3 to 4,Conservative,15,2,0,3,80,0,15,0
+36 - 60,0-50000,Contract worker,5 to 6,High,10,2,0,15,73,0,10,0
+36 - 60,0-50000,Contract worker,5 to 6,Moderate,10,2,0,10,76,0,12,0
+36 - 60,0-50000,Contract worker,5 to 6,Conservative,10,2,0,3,80,0,15,0
+36 - 60,50001-100000,Govt Salaried,1 to 2,High,50,2,10,38,40,0,10,0
+36 - 60,50001-100000,Govt Salaried,1 to 2,Moderate,50,2,10,25,50,0,13,0
+36 - 60,50001-100000,Govt Salaried,1 to 2,Conservative,50,2,2,8,67.9,0.1,20,0
+36 - 60,50001-100000,Govt Salaried,3 to 4,High,40,2,10,38,40,0,10,0
+36 - 60,50001-100000,Govt Salaried,3 to 4,Moderate,40,2,10,25,50,0,13,0
+36 - 60,50001-100000,Govt Salaried,3 to 4,Conservative,40,2,2,8,67.9,0.1,20,0
+36 - 60,50001-100000,Govt Salaried,5 to 6,High,30,2,10,38,40,0,10,0
+36 - 60,50001-100000,Govt Salaried,5 to 6,Moderate,30,2,10,25,50,0,13,0
+36 - 60,50001-100000,Govt Salaried,5 to 6,Conservative,30,2,2,8,67.9,0.1,20,0
+36 - 60,50001-100000,Corporate Salaried,1 to 2,High,50,2,10,38,40,0,10,0
+36 - 60,50001-100000,Corporate Salaried,1 to 2,Moderate,50,2,10,25,50,0,13,0
+36 - 60,50001-100000,Corporate Salaried,1 to 2,Conservative,50,2,2,8,67.9,0.1,20,0
+36 - 60,50001-100000,Corporate Salaried,3 to 4,High,40,2,10,38,40,0,10,0
+36 - 60,50001-100000,Corporate Salaried,3 to 4,Moderate,40,2,10,25,50,0,13,0
+36 - 60,50001-100000,Corporate Salaried,3 to 4,Conservative,40,2,2,8,67.9,0.1,20,0
+36 - 60,50001-100000,Corporate Salaried,5 to 6,High,30,2,10,38,40,0,10,0
+36 - 60,50001-100000,Corporate Salaried,5 to 6,Moderate,30,2,10,25,50,0,13,0
+36 - 60,50001-100000,Corporate Salaried,5 to 6,Conservative,30,2,2,8,67.9,0.1,20,0
+36 - 60,50001-100000,MSME Salaried,1 to 2,High,50,2,10,38,40,0,10,0
+36 - 60,50001-100000,MSME Salaried,1 to 2,Moderate,50,2,10,25,50,0,13,0
+36 - 60,50001-100000,MSME Salaried,1 to 2,Conservative,50,2,2,8,67.9,0.1,20,0
+36 - 60,50001-100000,MSME Salaried,3 to 4,High,40,2,10,38,40,0,10,0
+36 - 60,50001-100000,MSME Salaried,3 to 4,Moderate,40,2,10,25,50,0,13,0
+36 - 60,50001-100000,MSME Salaried,3 to 4,Conservative,40,2,2,8,67.9,0.1,20,0
+36 - 60,50001-100000,MSME Salaried,5 to 6,High,30,2,10,38,40,0,10,0
+36 - 60,50001-100000,MSME Salaried,5 to 6,Moderate,30,2,10,25,50,0,13,0
+36 - 60,50001-100000,MSME Salaried,5 to 6,Conservative,30,2,2,8,67.9,0.1,20,0
+36 - 60,50001-100000,Small Business,1 to 2,High,30,2,10,38,40,0,10,0
+36 - 60,50001-100000,Small Business,1 to 2,Moderate,30,2,10,25,50,0,13,0
+36 - 60,50001-100000,Small Business,1 to 2,Conservative,30,2,2,8,67.9,0.1,20,0
+36 - 60,50001-100000,Small Business,3 to 4,High,20,2,10,38,40,0,10,0
+36 - 60,50001-100000,Small Business,3 to 4,Moderate,20,2,10,25,50,0,13,0
+36 - 60,50001-100000,Small Business,3 to 4,Conservative,20,2,2,8,67.9,0.1,20,0
+36 - 60,50001-100000,Small Business,5 to 6,High,10,2,10,38,40,0,10,0
+36 - 60,50001-100000,Small Business,5 to 6,Moderate,10,2,10,25,50,0,13,0
+36 - 60,50001-100000,Small Business,5 to 6,Conservative,10,2,2,8,67.9,0.1,20,0
+36 - 60,> 100000,Govt Salaried,1 to 2,High,50,2,10,38,40,0,10,2
+36 - 60,> 100000,Govt Salaried,1 to 2,Moderate,50,2,10,25,50,0,13,0
+36 - 60,> 100000,Govt Salaried,1 to 2,Conservative,50,2,9,18,50,1,20,0
+36 - 60,> 100000,Govt Salaried,3 to 4,High,40,2,10,38,40,0,10,2
+36 - 60,> 100000,Govt Salaried,3 to 4,Moderate,40,2,10,25,50,0,13,0
+36 - 60,> 100000,Govt Salaried,3 to 4,Conservative,40,2,9,18,50,1,20,0
+36 - 60,> 100000,Govt Salaried,5 to 6,High,30,2,10,38,40,0,10,2
+36 - 60,> 100000,Govt Salaried,5 to 6,Moderate,30,2,10,25,50,0,13,0
+36 - 60,> 100000,Govt Salaried,5 to 6,Conservative,30,2,9,18,50,1,20,0
+36 - 60,> 100000,Corporate Salaried,1 to 2,High,50,2,10,38,40,0,10,2
+36 - 60,> 100000,Corporate Salaried,1 to 2,Moderate,50,2,10,25,50,0,13,0
+36 - 60,> 100000,Corporate Salaried,1 to 2,Conservative,50,2,9,18,50,1,20,0
+36 - 60,> 100000,Corporate Salaried,3 to 4,High,40,2,10,38,40,0,10,2
+36 - 60,> 100000,Corporate Salaried,3 to 4,Moderate,40,2,10,25,50,0,13,0
+36 - 60,> 100000,Corporate Salaried,3 to 4,Conservative,40,2,9,18,50,1,20,0
+36 - 60,> 100000,Corporate Salaried,5 to 6,High,30,2,10,56,20,0,10,2
+36 - 60,> 100000,Corporate Salaried,5 to 6,Moderate,30,2,10,35,40,0,13,0
+36 - 60,> 100000,Corporate Salaried,5 to 6,Conservative,30,2,9,18,50,1,20,0
+36 - 60,> 100000,MSME Salaried,1 to 2,High,50,2,10,38,68,0,10,0
+36 - 60,> 100000,MSME Salaried,1 to 2,Moderate,50,2,10,25,78,0,13,0
+36 - 60,> 100000,MSME Salaried,1 to 2,Conservative,50,2,2,8,67.9,0.1,20,0
+36 - 60,> 100000,MSME Salaried,3 to 4,High,40,2,10,38,40,0,10,0
+36 - 60,> 100000,MSME Salaried,3 to 4,Moderate,40,2,10,25,50,0,13,0
+36 - 60,> 100000,MSME Salaried,3 to 4,Conservative,40,2,2,8,67.9,0.1,20,0
+36 - 60,> 100000,MSME Salaried,5 to 6,High,30,2,10,38,40,0,10,0
+36 - 60,> 100000,MSME Salaried,5 to 6,Moderate,30,2,10,25,50,0,13,0
+36 - 60,> 100000,MSME Salaried,5 to 6,Conservative,30,2,2,8,67.9,0.1,20,0
+36 - 60,> 100000,Business,1 to 2,High,30,2,10,38,39,0,10,1
+36 - 60,> 100000,Business,1 to 2,Moderate,30,2,10,25,78,0,13,0
+36 - 60,> 100000,Business,1 to 2,Conservative,30,2,2,8,67.9,0.1,20,0
+36 - 60,> 100000,Business,3 to 4,High,20,2,10,38,39,0,10,1
+36 - 60,> 100000,Business,3 to 4,Moderate,20,2,10,25,50,0,13,0
+36 - 60,> 100000,Business,3 to 4,Conservative,20,2,2,8,67.9,0.1,20,0
+36 - 60,> 100000,Business,5 to 6,High,10,2,10,38,39,0,10,1
+36 - 60,> 100000,Business,5 to 6,Moderate,10,2,10,25,50,0,13,0
+36 - 60,> 100000,Business,5 to 6,Conservative,10,2,2,8,67.9,0.1,20,0
+>  60,0-50000,Retired,1 to 2,High,20,2,5,5,88,0,0,0
+>  60,0-50000,Retired,1 to 2,Moderate,20,2,4,4,90,0,0,0
+>  60,0-50000,Retired,1 to 2,Conservative,20,2,1,1,96,0,0,0
+>  60,0-50000,Retired,3 to 4,High,15,2,5,5,88,0,0,0
+>  60,0-50000,Retired,3 to 4,Moderate,15,2,4,4,90,0,0,0
+>  60,0-50000,Retired,3 to 4,Conservative,15,2,1,1,96,0,0,0
+>  60,0-50000,Retired,5 to 6,High,10,2,5,5,88,0,0,0
+>  60,0-50000,Retired,5 to 6,Moderate,10,2,4,4,90,0,0,0
+>  60,0-50000,Retired,5 to 6,Conservative,10,2,1,1,96,0,0,0
+>  60,0-50000,Contract worker,1 to 2,High,20,2,0,5,93,0,0,0
+>  60,0-50000,Contract worker,1 to 2,Moderate,20,2,0,4,94,0,0,0
+>  60,0-50000,Contract worker,1 to 2,Conservative,20,2,0,1,97,0,0,0
+>  60,0-50000,Contract worker,3 to 4,High,15,2,0,5,93,0,0,0
+>  60,0-50000,Contract worker,3 to 4,Moderate,15,2,0,4,94,0,0,0
+>  60,0-50000,Contract worker,3 to 4,Conservative,15,2,0,1,97,0,0,0
+>  60,0-50000,Contract worker,5 to 6,High,10,2,0,5,93,0,0,0
+>  60,0-50000,Contract worker,5 to 6,Moderate,10,2,0,4,94,0,0,0
+>  60,0-50000,Contract worker,5 to 6,Conservative,10,2,0,1,97,0,0,0
+>  60,50001-100000,Retired,1 to 2,High,50,2,5,5,88,0,0,0
+>  60,50001-100000,Retired,1 to 2,Moderate,50,2,4,4,90,0,0,0
+>  60,50001-100000,Retired,1 to 2,Conservative,50,2,1,1,96,0,0,0
+>  60,50001-100000,Retired,3 to 4,High,40,2,5,5,88,0,0,0
+>  60,50001-100000,Retired,3 to 4,Moderate,40,2,4,4,90,0,0,0
+>  60,50001-100000,Retired,3 to 4,Conservative,40,2,1,1,96,0,0,0
+>  60,50001-100000,Retired,5 to 6,High,30,2,5,5,88,0,0,0
+>  60,50001-100000,Retired,5 to 6,Moderate,30,2,4,4,90,0,0,0
+>  60,50001-100000,Retired,5 to 6,Conservative,30,2,1,1,96,0,0,0
+>  60,50001-100000,Small Business,1 to 2,High,30,2,5,5,88,0,0,0
+>  60,50001-100000,Small Business,1 to 2,Moderate,30,2,4,4,90,0,0,0
+>  60,50001-100000,Small Business,1 to 2,Conservative,30,2,1,1,96,0,0,0
+>  60,50001-100000,Small Business,3 to 4,High,20,2,5,5,88,0,0,0
+>  60,50001-100000,Small Business,3 to 4,Moderate,20,2,4,4,90,0,0,0
+>  60,50001-100000,Small Business,3 to 4,Conservative,20,2,1,1,96,0,0,0
+>  60,50001-100000,Small Business,5 to 6,High,10,2,5,5,88,0,0,0
+>  60,50001-100000,Small Business,5 to 6,Moderate,10,2,4,4,90,0,0,0
+>  60,50001-100000,Small Business,5 to 6,Conservative,10,2,1,1,96,0,0,0
+>  60,> 100000,Retired,1 to 2,High,50,2,5,5,88,0,0,2
+>  60,> 100000,Retired,1 to 2,Moderate,50,2,4,4,90,0,0,0
+>  60,> 100000,Retired,1 to 2,Conservative,50,2,1,1,96,0,0,0
+>  60,> 100000,Retired,3 to 4,High,40,2,5,5,88,0,0,2
+>  60,> 100000,Retired,3 to 4,Moderate,40,2,4,4,90,0,0,0
+>  60,> 100000,Retired,3 to 4,Conservative,40,2,1,1,96,0,0,0
+>  60,> 100000,Retired,5 to 6,High,30,2,5,5,88,0,0,2
+>  60,> 100000,Retired,5 to 6,Moderate,30,2,4,4,90,0,0,0
+>  60,> 100000,Retired,5 to 6,Conservative,30,2,1,1,96,0,0,0
+>  60,> 100000,Business,1 to 2,High,30,2,5,5,88,0,0,1
+>  60,> 100000,Business,1 to 2,Moderate,30,2,4,4,90,0,0,0
+>  60,> 100000,Business,1 to 2,Conservative,30,2,1,1,96,0,0,0
+>  60,> 100000,Business,3 to 4,High,20,2,5,5,88,0,0,1
+>  60,> 100000,Business,3 to 4,Moderate,20,2,4,4,90,0,0,0
+>  60,> 100000,Business,3 to 4,Conservative,20,2,1,1,96,0,0,0
+>  60,> 100000,Business,5 to 6,High,10,2,5,5,88,0,0,1
+>  60,> 100000,Business,5 to 6,Moderate,10,2,4,4,90,0,0,0
+>  60,> 100000,Business,5 to 6,Conservative,10,2,1,1,96,0,0,0
